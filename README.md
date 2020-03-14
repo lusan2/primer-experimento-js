@@ -1,5 +1,5 @@
 # Juego-Simon-dice-Simon-say-game
-Es mi primer juego en JavaScript tutorizado por el curso de Fundamentos de JavaScript de Platzi
+Es mi primer experimento con JavaScript y fue tutorizado por el curso de Fundamentos de JavaScript de Platzi
 
 Como parte del curso, el archivo viene preparado con todo el código HTML y CSS. Por lo cual lo que realmente he editado es el archivo JavaScript
 
